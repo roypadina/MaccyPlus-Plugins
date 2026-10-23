@@ -1,8 +1,14 @@
 # MaccyPlus-Plugins
 
-The official plugin marketplace for [MaccyPlus](https://github.com/roypadina/maccyplus), a macOS clipboard manager.
+[![Validate plugins](https://github.com/roypadina/MaccyPlus-Plugins/actions/workflows/validate.yml/badge.svg)](https://github.com/roypadina/MaccyPlus-Plugins/actions/workflows/validate.yml)
+[![License: MIT](https://img.shields.io/github/license/roypadina/MaccyPlus-Plugins)](./LICENSE)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/roypadina)
+
+The official plugin marketplace for [**MaccyPlus**](https://github.com/roypadina/maccyplus), the macOS clipboard manager with rules, actions and plugins. MaccyPlus is a fork of [Maccy](https://maccy.app); install it with `brew install --cask roypadina/tap/maccyplus`.
 
 Browse the [`plugins/`](./plugins/) directory to see what's available, or jump straight to [Building your first plugin](#quickstart-build-your-first-plugin).
+
+![MaccyPlus Settings, Plugins pane](docs/screenshots/plugins-settings.png)
 
 ---
 
@@ -180,3 +186,11 @@ CODEOWNERS
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+---
+
+## Support
+
+If these plugins save you time, you can support their development. It's optional and always appreciated.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roypadina)
