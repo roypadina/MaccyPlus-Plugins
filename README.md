@@ -1,6 +1,7 @@
 # MaccyPlus-Plugins
 
 [![Validate plugins](https://github.com/roypadina/MaccyPlus-Plugins/actions/workflows/validate.yml/badge.svg)](https://github.com/roypadina/MaccyPlus-Plugins/actions/workflows/validate.yml)
+[![Website](https://img.shields.io/badge/website-apps.roypadina-2F62E6)](https://apps.roypadina.synology.me/)
 [![License: MIT](https://img.shields.io/github/license/roypadina/MaccyPlus-Plugins)](./LICENSE)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/roypadina)
 
@@ -188,6 +189,14 @@ CODEOWNERS
 MIT — see [LICENSE](./LICENSE).
 
 ---
+
+## More Mac apps by Roy
+
+Free, open-source Mac menu-bar apps and terminal tools, all on one site: **[apps.roypadina.synology.me](https://apps.roypadina.synology.me/)**.
+
+- [MaccyPlus](https://apps.roypadina.synology.me/apps/maccyplus/) — Maccy, plus automation: rules, hotkeys, plugins and a CLI for AI agents.
+- [NtfyBar](https://apps.roypadina.synology.me/apps/ntfybar/) — ntfy notifications on your Mac: popups that stay, rules, commands, plugins.
+- [Window Organizer](https://apps.roypadina.synology.me/apps/window-organizer/) — Clear the desk in one keystroke.
 
 ## Support
 
