@@ -9,7 +9,10 @@ The official plugin marketplace for [**MaccyPlus**](https://github.com/roypadina
 
 Browse the [`plugins/`](./plugins/) directory to see what's available, or jump straight to [Building your first plugin](#quickstart-build-your-first-plugin).
 
-![MaccyPlus Settings, Plugins pane](docs/screenshots/plugins-settings.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/plugins-settings-dark.png">
+  <img alt="MaccyPlus Settings, Plugins pane" src="docs/screenshots/plugins-settings.png">
+</picture>
 
 ---
 
